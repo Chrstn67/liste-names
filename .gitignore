@@ -14,6 +14,10 @@ dist-ssr
 public
 src
 *.js
+*.cjs
+*.gitignore
+*.html
+*.json
 
 # Editor directories and files
 .vscode/*
